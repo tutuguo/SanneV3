@@ -1,0 +1,182 @@
+@charset "UTF-8";
+.body {
+	background-image: url(WebV2/Img/plukbg.png);
+	background-size: cover;
+	top: -5px;
+	left: auto;
+	position: absolute;
+	width: auto;
+	height: auto;
+	background-repeat: no-repeat;
+}
+
+
+/*pluk*/
+.plukouter{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 67px;
+	left: 27px;
+}
+.plukinner{
+	height: 20px;
+	width: 60px;
+	background: white;
+}
+img{
+	height: auto;
+	width: 100px;
+	display:none;}
+.plukinner:hover img{
+	display: block}
+
+/*als kind*/
+.alsouter{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 16px;
+	left: 955px;
+}
+.alsinner{
+	height: 20px;
+	width: 100px;
+	background: white;
+}
+img{
+	height: auto;
+	width: 100px;
+	display:none;}
+.alsinner:hover img{
+	display: block}
+
+
+/*plastic*/
+.plasticouter{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 67px;
+	left: 27px;
+}
+.plasticinner{
+	height: 20px;
+	width: 60px;
+	background: white;
+}
+img{
+	height: auto;
+	width: 100px;
+	display:none;}
+.plasticinner:hover img{
+	display: block}
+
+/*die*/
+.dieouter{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 244px;
+	left: 219px;
+}
+.dieinner{
+	height: 20px;
+	width: 50px;
+	background: white;
+}
+img{
+	height: auto;
+	width: 100px;
+	display:none;}
+.dieinner:hover img{
+	display: block}
+
+/*vogel*/
+.vogelouter{
+	position: absolute;
+	top: 420px;
+	left: 41px;
+}
+.vogelinner{
+	height: 20px;
+	width: 50px;
+	margin: 100px;
+	background: white;
+}
+img{
+	height: auto;
+	width: 100px;
+	display:none;}
+.vogelinner:hover img{
+	display: block}
+.ontmoeinner:hover img{
+	display: block}
+
+/*de*/
+.deouter{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 30px;
+	left: 517px;
+}
+.deinner{
+	height: 20px;
+	width: 50px;
+	background: white;
+}
+img{
+	height: auto;
+	width: 100px;
+	display:none;}
+.deinner:hover img{
+	display: block}
+
+
+/*oerkreten*/
+.oerkouter{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 325px;
+	left: 528px;
+}
+.oerkinner{
+	height: 20px;
+	width: 80px;
+	background: white;
+	text-align: center;
+}
+img{
+	height: auto;
+	width: 100px;
+	display:none;}
+.oerkinner:hover img{
+	display: block}
+
+/*ontmoe*/
+.ontmoeouter{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 93px;
+	left: 787px;
+}
+.ontmoeinner{
+	height: 20px;
+	width: 300px;
+	background: white;
+	text-align: center;
+}
+img{
+	height: 100px;
+	display:none;}
+.back {
+	font-size: 20px;
+	color: #EA062C;
+	text-decoration: none;
+	letter-spacing: 3px;
+	width: auto;
+	height: auto;
+}

@@ -1,0 +1,119 @@
+@charset "UTF-8";
+.body {
+    color: #EA062C;
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-decoration: none;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    min-height: 100%;
+    min-width: 100%;
+    background-image: url(WebV2/Gif/OPBGG.gif);
+}
+.omsingelde {
+	text-decoration: none;
+	word-break: break-all;
+	display: block;
+	position: relative;
+	margin-left: 10px;
+	color: #FF0400;
+	background-size: auto auto;
+	font-size: 40px;
+	opacity: 1;
+	width: 300px;
+	left: 15%;
+	letter-spacing: 10px;
+	word-spacing: 10px;
+	margin-top: 10px;
+	top: 7%;
+}
+.pluk {
+	width: 450px;
+	text-align: left;
+	text-decoration: none;
+	word-break: break-all;
+	display: block;
+	position: relative;
+	top: 100px;
+	color: #FF0400;
+	margin-left: 50px;
+	font-size: 40px;
+	letter-spacing: 5px;
+	word-spacing: 10px;
+}
+.performance {
+	width: 620px;
+	text-align: left;
+	text-decoration: none;
+	word-break: break-all;
+	display: block;
+	position: relative;
+	top: 400px;
+	font-size: 80px;
+	color: #FF0400;
+	margin-left: 50px;
+	height: 0px;
+	letter-spacing: 18px;
+}
+.vogel {
+	width: 480px;
+	text-decoration: none;
+	display: block;
+	word-wrap: break-word;
+	left: 65%;
+	color: #FF0400;
+	font-size: 40px;
+	padding-top: 12px;
+	position: fixed;
+	letter-spacing: 10px;
+	word-spacing: 10px;
+	top: 0%;
+}
+.podcast {
+	text-align: center;
+	text-decoration: none;
+	word-break: break-all;
+	display: block;
+	font-size: 65px;
+	color: #FF0400;
+	letter-spacing: 25px;
+	width: 500px;
+	height: auto;
+	position: fixed;
+	left: 65%;
+	top: 50%;
+}
+.lok {
+	width: 300px;
+	text-align: left;
+	text-decoration: none;
+	display: block;
+	color: #FF0400;
+	font-size: 80px;
+	position: fixed;
+	left: 64%;
+	bottom: 20%;
+	letter-spacing: 5px;
+	word-spacing: 15px;
+	top: 75%;
+}
+.opg {
+	position: fixed;
+	width: auto;
+	left: 40%;
+}
+.div {
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 100%;
+	height: auto;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: auto;
+}

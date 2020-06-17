@@ -1,0 +1,110 @@
+@charset "UTF-8";
+.body {
+	background-image: url(WebV2/Gif/lokbg.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-decoration: none;
+}
+.1 {
+	display: block;
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 6px;
+	width: 800px;
+	height: auto;
+}
+.2 {
+	display: block;
+	width: 600px;
+	position: absolute;
+	top: 30px;
+}
+.T1 {
+	margin-top: 5px;
+	margin-left: 5px;
+	width: 800px;
+	height: auto;
+	font-size: 20px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+}
+.T2 {
+	font-size: 20px;
+	word-spacing: 5px;
+	letter-spacing: 3px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.T3 {
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 20px;
+	letter-spacing: 3px;
+}
+.T4 {
+	margin-left: 5px;
+	margin-top: 5px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	font-size: 20px;
+}
+.T5 {
+	margin-left: 5px;
+	margin-top: 5px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	font-size: 20px;
+}
+.T6 {
+	margin-left: 5px;
+	margin-top: 5px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	font-size: 20px;
+}
+.T7 {
+	margin-left: 5px;
+	margin-top: 5px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	font-size: 20px;
+}
+.T8 {
+	margin-left: 5px;
+	margin-top: 5px;
+	letter-spacing: 5px;
+	word-spacing: 3px;
+	font-size: 20px;
+}
+.T9 {
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 20px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+}
+.T10 {
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 20px;
+	letter-spacing: 3px;
+	white-space: 5px;
+}
+.T11 {
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	font-size: 20px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.back {
+	color: #FF0400;
+	font-size: 20px;
+	display: block;
+	text-align: left;
+	text-decoration: none;
+	letter-spacing: 5px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}

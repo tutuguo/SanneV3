@@ -1,0 +1,78 @@
+@charset "UTF-8";
+.body{
+	background-image: url(WebV2/Gif/PerBG.gif);
+	background-size: cover;
+	position: absolute;
+	background-repeat: no-repeat;
+}
+.back{
+	color: #EA062C;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-decoration: none;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 3px;
+}
+.thank {
+	display: block;
+	position: absolute;
+	left: 200px;
+	width: 1100px;
+	height: auto;
+	top: 0px;
+}
+.thank img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.peter {
+	width: 300px;
+}
+.ine{
+	width: 300px;
+	position: absolute;
+	left: 0px;
+	top: 300px;
+}
+.kee{
+	width: 300px;
+	position: absolute;
+	top: 500px;
+}
+.tutu{
+	width: 300px;
+	top: 0px;
+	left: 1100px;
+	position: absolute;
+}
+.marina {
+	width: 300px;
+	position: absolute;
+	top: 150px;
+	left: 1100px;
+}
+.fokka {
+	width: 300px;
+	position: absolute;
+	left: 1000px;
+	top: auto;
+}
+.inge {
+	width: 300px;
+	position: absolute;
+	left: 900px;
+	top: 450px;
+}
+.vere {
+	width: 300px;
+	left: 1150px;
+	position: absolute;
+	top: 400px;
+}
+.writer {
+	width: 300px;
+	position: absolute;
+	left: 800px;
+	top: 500px;
+}

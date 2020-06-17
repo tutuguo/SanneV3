@@ -1,0 +1,122 @@
+@charset "UTF-8";
+.1 {
+}
+.vogel {
+	width: 98px;
+	margin-bottom: 0px;
+	height: 76px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-right: 30px;
+	background-image: url(WebV2/Img/podbg.jpeg);
+	background-size: cover;
+	background-repeat: repeat;
+	position: relative;
+	left: 165px;
+	top: 119px;
+}
+.duizen {
+	width: 98px;
+	height: 76px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-right: 30px;
+	position: absolute;
+	left: 165px;
+	top: 620px;
+}
+.dolfijn {
+	width: 98px;
+	height: 76px;
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	position: absolute;
+	left: 165px;
+	top: 1120px;
+}
+.podcast {
+	position: absolute;
+	left: 500px;
+	top: 30px;
+}
+.body {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.back {
+	font-size: 30px;
+	letter-spacing: 5px;
+	color: #FF0400;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	left: auto;
+	height: 0px;
+	width: auto;
+}
+.p1 {
+	display: block;
+	padding-top: 3px;
+	padding-left: 3px;
+	padding-bottom: 5px;
+	font-size: 18px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	font-weight: bold;
+}
+.text {
+	width: 400px;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 20px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	word-break: normal;
+}
+.p2 {
+	font-size: 16px;
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+}
+.p3 {
+	padding-top: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block;
+}
+.p5 {
+	margin-top: 0px;
+	font-size: 16px;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+}
+.frame1 {
+	width: 500px;
+	height: 500px;
+	background-image: url(WebV2/Img/podbg.jpeg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: relative;
+	left: 0px;
+}
+.frame2 {
+	width: 500px;
+	height: 500px;
+	background-image: url(WebV2/Img/podbg.jpeg);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.frame3 {
+	width: 500px;
+	height: 500px;
+	background-image: url(WebV2/Img/podbg.jpeg);
+	background-size: contain;
+	background-repeat: no-repeat;
+}
